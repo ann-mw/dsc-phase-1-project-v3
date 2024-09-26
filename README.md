@@ -33,3 +33,5 @@ Injury distribution by flight phase (bar plot)
 2)Implement Weather-Specific Safety Protocols: Utilize the insights from your analysis on injury distributions across different weather conditions to develop tailored safety procedures. Create comprehensive checklists and training programs for pilots and ground staff to address the unique challenges posed by adverse weather conditions, thereby minimizing the impact of weather-related accidents.
 
 3)Focus on Critical Flight Phases: Based on the noted disparities in injury rates during different phases of flight, allocate additional resources to improve safety standards during these high-risk periods. Develop specialized training modules and invest in advanced technology systems designed to enhance situational awareness and control capabilities during takeoff, landing, and other critical phases of flight.
+# interactive dashboard
+https://public.tableau.com/app/profile/ann.mwangi2041/viz/projectdashboard_17273059938510/Dashboard1?publish=yes
